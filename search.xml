@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>Hi, there!</title>
-      <link href="2021/01/28/hi-there/"/>
-      <url>2021/01/28/hi-there/</url>
+      <title>all-about-this-world</title>
+      <link href="2021/06/23/all-about-this-world/"/>
+      <url>2021/06/23/all-about-this-world/</url>
       
-        <content type="html"><![CDATA[<p>很开心，今天又度过了美好的一天。</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>沉迷于过去的人 ，最终会溺死在幻想中。</p></blockquote>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> YII </tag>
+            
+        </tags>
       
     </entry>
     

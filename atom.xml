@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>野原的小站</title>
+  
+  
+  <link href="https://www.bonjourcs.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.bonjourcs.com/"/>
+  <updated>2021-06-30T01:33:03.394Z</updated>
+  <id>https://www.bonjourcs.com/</id>
+  
+  <author>
+    <name>野原英雄</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>all-about-this-world</title>
+    <link href="https://www.bonjourcs.com/2021/06/23/all-about-this-world/"/>
+    <id>https://www.bonjourcs.com/2021/06/23/all-about-this-world/</id>
+    <published>2021-06-23T12:50:01.000Z</published>
+    <updated>2021-06-30T01:33:03.394Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>沉迷于过去的人 ，最终会溺死在幻想中。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;沉迷于过去的人 ，最终会溺死在幻想中。&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="YII" scheme="https://www.bonjourcs.com/tags/YII/"/>
+    
+  </entry>
+  
+</feed>
